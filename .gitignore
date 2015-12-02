@@ -2,7 +2,6 @@
 /mysite/settings/local.py
 /mysite/db.sqlite3
 
-
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
